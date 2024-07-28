@@ -1,4 +1,4 @@
-hvgvgvgh
+
 pipeline {
 agent {
 label {
